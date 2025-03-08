@@ -1,0 +1,3 @@
+what is you name?
+what is your age?
+where are you?
